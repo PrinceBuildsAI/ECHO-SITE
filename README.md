@@ -5,9 +5,10 @@ A focused **browser-based alphabet typing trainer** designed to help users pract
 ECHO combines typing practice with audio guidance to create a more interactive and accessible way to improve alphabet familiarity and keyboard confidence.
 
 🔗 **[ECHO — Live Project Demo](https://princebuildsai.github.io/ECHO-SITE/)**
-📸 Project Overview
 
-<table align="center"> <tr> <td style="border: 2px solid #00aaff; border-radius: 12px; padding: 6px;"> <img src="asset/echo-1.png" alt="ECHO Blind Alphabet Trainer - Main Interface" width="500"> </td> <td style="border: 2px solid #00aaff; border-radius: 12px; padding: 6px;"> <img src="asset/echo2.png" alt="ECHO Blind Alphabet Trainer - Practice Interface" width="500"> </td> </tr> </table>
+## 📸 Project Overview
+
+<table align="center"> <tr> <td style="border: 2px solid #00aaff; border-radius: 12px; padding: 6px;"> <img src="asset/echo-1.png" alt="ECHO Blind Alphabet Trainer - Main Interface" width="500"> </td> <td style="border: 2px solid #00aaff; border-radius: 12px; padding: 6px;"> <img src="asset/echo-2.png" alt="ECHO Blind Alphabet Trainer - Practice Interface" width="500"> </td> </tr> </table>
 
 ---
 ## ⚡ Project Highlights
